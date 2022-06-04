@@ -11,7 +11,7 @@ target/
 .idea/modules.xml
 .idea/jarRepositories.xml
 .idea/compiler.xml
-.idea/libraries/
+###.idea/libraries/ ### ~Upload local librares to git souce control
 *.iws
 *.iml
 *.ipr
