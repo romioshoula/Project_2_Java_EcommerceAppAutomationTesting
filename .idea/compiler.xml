@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="Project_2_Java_EcommerceAppAutomationTesting" />
+        <module name="EcommerceAppAutomation" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="EcommerceAppAutomation" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

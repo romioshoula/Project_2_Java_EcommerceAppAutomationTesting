@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Added Local Libraries">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Moved gitignore">
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,6 +43,11 @@
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\Dev\Java\Udacity\Frontend Testing\My Projects\Project_2_Java_EcommerceAppAutomationTesting\.idea" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -88,7 +93,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654380567995</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Added Local Libraries">
+      <created>1654381041567</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1654381041567</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Moved gitignore">
+      <created>1654381123637</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1654381123637</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,7 +130,8 @@
     <MESSAGE value="Updated Plugins" />
     <MESSAGE value="Update gitignore" />
     <MESSAGE value="Added Local Libraries" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Local Libraries" />
+    <MESSAGE value="Moved gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved gitignore" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
