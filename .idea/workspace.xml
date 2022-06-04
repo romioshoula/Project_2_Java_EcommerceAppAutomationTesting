@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Update compiler">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-    </list>
+    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Added test criteria" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,9 +35,9 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "last_opened_file_path": "G:/Dev/Java/Udacity/Frontend Testing/Git2/E-Commerce-App-Automation-Testing",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -114,7 +112,28 @@
       <option name="project" value="LOCAL" />
       <updated>1654381189523</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Added modules">
+      <created>1654381408361</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654381408361</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added features to resources">
+      <created>1654381603395</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654381603395</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added test criteria">
+      <created>1654381680947</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654381680947</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,7 +158,10 @@
     <MESSAGE value="Added Local Libraries" />
     <MESSAGE value="Moved gitignore" />
     <MESSAGE value="Update compiler" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update compiler" />
+    <MESSAGE value="Added modules" />
+    <MESSAGE value="Added features to resources" />
+    <MESSAGE value="Added test criteria" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added test criteria" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
