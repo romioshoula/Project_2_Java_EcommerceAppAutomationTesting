@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Added cucumber criteria">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Update Screenshots">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -160,7 +159,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654381800583</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Run Tests">
+      <created>1654382222946</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1654382222946</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Update Screenshots">
+      <created>1654382468814</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1654382468814</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +202,9 @@
     <MESSAGE value="Added features to resources" />
     <MESSAGE value="Added test criteria" />
     <MESSAGE value="Added cucumber criteria" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added cucumber criteria" />
+    <MESSAGE value="Run Tests" />
+    <MESSAGE value="Update Screenshots" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update Screenshots" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
