@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Create Project">
+    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Added Plugins">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,6 +36,10 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/Dev/Java/Udacity/Frontend Testing/My Projects/Project_2_Java_EcommerceAppAutomationTesting",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
     "settings.editor.selected.configurable": "preferences.pluginManager"
   }
 }]]></component>
@@ -48,7 +51,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1654377332945</updated>
-      <workItem from="1654377335910" duration="913000" />
+      <workItem from="1654377335910" duration="1724000" />
     </task>
     <task id="LOCAL-00001" summary="Create Project">
       <created>1654377429877</created>
@@ -57,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654377429877</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added Plugins">
+      <created>1654378771252</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1654378771252</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -76,7 +86,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Create Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Project" />
+    <MESSAGE value="Added Plugins" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Plugins" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
