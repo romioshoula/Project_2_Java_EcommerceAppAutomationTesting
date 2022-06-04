@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Update gitignore">
+    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Added Local Libraries">
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +81,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654380377578</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Added Local Libraries">
+      <created>1654380567995</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1654380567995</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -103,7 +110,8 @@
     <MESSAGE value="Added Plugins" />
     <MESSAGE value="Updated Plugins" />
     <MESSAGE value="Update gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update gitignore" />
+    <MESSAGE value="Added Local Libraries" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Local Libraries" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

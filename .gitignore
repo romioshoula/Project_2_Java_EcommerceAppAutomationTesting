@@ -5,7 +5,7 @@ target/
 
 # Default ignored files
 /shelf/
-/workspace.xml
+### ./workspace.xml ### ~Upload local librares to git souce control
 
 ### IntelliJ IDEA ###
 .idea/modules.xml
