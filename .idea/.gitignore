@@ -1,20 +1,6 @@
-### target/ ### ~Upload local librares to git souce control
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
-
 # Default ignored files
 /shelf/
-### ./workspace.xml ### ~Upload local librares to git souce control
-
-### IntelliJ IDEA ###
-### .idea/modules.xml ### ~Upload local librares to git souce control
-jarRepositories.xml
-### .idea/compiler.xml ### ~Upload local librares to git souce control
-###.idea/libraries/ ### ~Upload local librares to git souce control
-*.iws
-### *.iml ### ~Upload local librares to git souce control
-*.ipr
+/workspace.xml
 
 ### Eclipse ###
 .apt_generated
