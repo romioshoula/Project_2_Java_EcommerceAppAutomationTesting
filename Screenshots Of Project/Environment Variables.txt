@@ -1,0 +1,59 @@
+Microsoft Windows [Version 10.0.19044.1741]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\Sarah>set
+ALLUSERSPROFILE=C:\ProgramData
+APPDATA=C:\Users\Sarah\AppData\Roaming
+AWP_LOCALE190=en-us
+ChocolateyInstall=C:\ProgramData\chocolatey
+ChocolateyLastPathUpdate=132834256282203843
+CommonProgramFiles=C:\Program Files\Common Files
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+CommonProgramW6432=C:\Program Files\Common Files
+COMPUTERNAME=LAPTOP-B0GB0FQS
+ComSpec=C:\WINDOWS\system32\cmd.exe
+configsetroot=C:\WINDOWS\ConfigSetRoot
+DriverData=C:\Windows\System32\Drivers\DriverData
+easyplussdk="C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin"
+GIT_LFS_PATH=C:\Program Files\Git LFS
+HOMEDRIVE=C:
+HOMEPATH=\Users\Sarah
+INTEL_DEV_REDIST=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\
+JAVA_HOME=C:\Program Files\Java\jre1.8.0_333
+JDK_HOME=C:\Program Files\Java\jre1.8.0_333
+JRE_HOME=C:\Program Files\Java\jre1.8.0_333\jre
+LOCALAPPDATA=C:\Users\Sarah\AppData\Local
+LOGONSERVER=\\LAPTOP-B0GB0FQS
+MGLS_LICENSE_FILE=E:\Modelsim\modeltech64_10.7\win64\LICENSE.TXT
+MIC_LD_LIBRARY_PATH=C:\Program Files (x86)\Common Files\Intel\Shared Libraries\compiler\lib\mic
+NUMBER_OF_PROCESSORS=8
+OneDrive=C:\Users\Sarah\OneDrive
+OneDriveConsumer=C:\Users\Sarah\OneDrive
+OS=Windows_NT
+Path=C:\Program Files\Microsoft\jdk-11.0.12.7-hotspot\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Eclipse Foundation\jdk-8.0.302.8-hotspot\bin;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Intel\Shared Libraries\redist\intel64\compiler;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Common Files\lenovo\easyplussdk\bin;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\Calibre2\;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git LFS;C:\Program Files\Git\cmd;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\150\Tools\Binn\;C:\Users\Sarah\AppData\Local\Programs\Python\Python38\Scripts\;C:\Users\Sarah\AppData\Local\Programs\Python\Python38\;C:\Users\Sarah\AppData\Local\Microsoft\WindowsApps;E:\Modelsim\modeltech64_10.7\win64;C:\Users\Sarah\AppData\Local\GitHubDesktop\bin;C:\Users\Sarah\AppData\Roaming\npm;C:\Users\Sarah\.dotnet\tools
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+PROCESSOR_ARCHITECTURE=AMD64
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 94 Stepping 3, GenuineIntel
+PROCESSOR_LEVEL=6
+PROCESSOR_REVISION=5e03
+ProgramData=C:\ProgramData
+ProgramFiles=C:\Program Files
+ProgramFiles(x86)=C:\Program Files (x86)
+ProgramW6432=C:\Program Files
+PROMPT=$P$G
+PSModulePath=C:\Program Files\WindowsPowerShell\Modules;C:\WINDOWS\system32\WindowsPowerShell\v1.0\Modules
+PUBLIC=C:\Users\Public
+SESSIONNAME=Console
+SystemDrive=C:
+SystemRoot=C:\WINDOWS
+TEMP=C:\Users\Sarah\AppData\Local\Temp
+TMP=C:\Users\Sarah\AppData\Local\Temp
+TMPDIR=C:\Users\Public\Documents\Wondershare\CreatorTemp
+USERDOMAIN=LAPTOP-B0GB0FQS
+USERDOMAIN_ROAMINGPROFILE=LAPTOP-B0GB0FQS
+USERNAME=Rami
+USERPROFILE=C:\Users\Sarah
+VBOX_MSI_INSTALL_PATH=E:\Alliance\Oracle\VirtualBox\
+windir=C:\WINDOWS
+
+C:\Users\Sarah>
