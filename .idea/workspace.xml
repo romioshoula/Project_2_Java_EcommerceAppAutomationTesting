@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Moved gitignore">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+    <list default="true" id="dbb1a18e-7ae6-4045-a629-d1f69eb7ce7f" name="Changes" comment="Update compiler">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,7 +107,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654381123637</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Update compiler">
+      <created>1654381189523</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1654381189523</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +138,8 @@
     <MESSAGE value="Update gitignore" />
     <MESSAGE value="Added Local Libraries" />
     <MESSAGE value="Moved gitignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved gitignore" />
+    <MESSAGE value="Update compiler" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update compiler" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

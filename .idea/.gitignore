@@ -13,7 +13,7 @@ jarRepositories.xml
 .idea/compiler.xml
 ###.idea/libraries/ ### ~Upload local librares to git souce control
 *.iws
-*.iml
+### *.iml ### ~Upload local librares to git souce control
 *.ipr
 
 ### Eclipse ###
